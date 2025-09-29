@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "zentripetal")(type "KiCad")(uri "${KIPRJMOD}/libs/nch8200hv.kicad_sym")(options "")(descr ""))
+  (lib (name "nixies-us")(type "KiCad")(uri "${KIPRJMOD}/libs/nixies-us.kicad_sym")(options "")(descr ""))
+  (lib (name "mynixies")(type "KiCad")(uri "${KIPRJMOD}/libs/mynixies.kicad_sym")(options "")(descr ""))
+  (lib (name "zentripetal-molex")(type "KiCad")(uri "${KIPRJMOD}/libs/molex IDC/KiCADv6/2025-09-29_14-16-48.kicad_sym")(options "")(descr ""))
+)
