@@ -1,1 +1,1 @@
-# NIXXIE Display Board for IN-12
+# NIXXIE Display Board for IN-12B 4 Tube Display
