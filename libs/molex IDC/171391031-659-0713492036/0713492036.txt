@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-08042024-066700";"";
+"REFERENCE";"713492036";"";
+"TraceParts.PartTitle";"C-Grid";"";
+"TraceParts.InstanceId";"90-08042024-0667002N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"2.54mm Pitch C-Grid Header, Surface Mount, Dual Row, Vertical, Shrouded,  8 Circuits, 0.38µm Gold (Au) Selective Plating, with Press-fit Plastic Pegs";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.3";"";
