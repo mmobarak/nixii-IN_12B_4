@@ -23,7 +23,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "zentripetal:NCH8200HV"
+		(property "Footprint" "zen-nch8200hv:NCH8200HV"
 			(at 0 -8.89 0)
 			(effects
 				(font
